@@ -19,6 +19,10 @@ module.exports = {
         lastUpdated: 'Last Updated',
         serviceWorker: {
             updatePopup: true
-          }
+        },
+        repo: 'Silvanite/code.planetlaravel.com',
+        repoLabel: 'Contribute!',
+        editLinks: true,
+        editLinkText: 'Help us improve this page!'
     }
 }
