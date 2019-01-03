@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Silvanite/code.planetlaravel.com/issues"
   },
-  "homepage": "https://github.com/Silvanite/code.planetlaravel.com#readme"
+  "homepage": "https://github.com/Silvanite/code.planetlaravel.com#readme",
+  "dependencies": {
+    "vuepress": "^1.0.0-alpha.30"
+  }
 }
