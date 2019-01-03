@@ -1,6 +1,7 @@
 module.exports = {
     title: 'Planet Laravel Code Hub',
     description: 'Useful, interesting and fun code snippets for the Laravel PHP Framework',
+    ga: 'UA-21597279-18',
     themeConfig: {
         nav: [
             { text: 'Planet Laravel', link: 'https://www.planetlaravel.com' },
