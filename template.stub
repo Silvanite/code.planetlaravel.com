@@ -1,0 +1,13 @@
+# A title explaining what this item covers
+
+Additional description and background. Code blocks should specify the language used where applicable.
+
+```php
+$user = App\User::first();
+
+show $user;
+```
+
+|Added by|Found via|
+|--------|--------|
+|[Author](https://...)|[Reference](https:...)|

@@ -1,0 +1,27 @@
+{
+  "name": "code.planetlaravel.com",
+  "version": "0.0.0",
+  "description": "Planet Laravel Code Hub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Silvanite/code.planetlaravel.com.git"
+  },
+  "keywords": [
+    "code",
+    "laravel",
+    "php",
+    "tips",
+    "tricks",
+    "snippets"
+  ],
+  "author": "Marco Mark <m2de@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Silvanite/code.planetlaravel.com/issues"
+  },
+  "homepage": "https://github.com/Silvanite/code.planetlaravel.com#readme"
+}
