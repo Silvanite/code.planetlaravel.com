@@ -14,7 +14,7 @@ public function tearDown()
 }
 ```
 
-The next test will run with all cookies and loca stoarage cleared.
+The next test will run with all cookies and local storage cleared.
 
 |Added by|Found via|
 |--------|--------|
