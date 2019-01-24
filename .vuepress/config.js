@@ -15,6 +15,7 @@ module.exports = {
             '/models/',
             '/tinker/',
             '/testing/',
+            '/dusk/',
         ],
         lastUpdated: 'Last Updated',
         serviceWorker: {
